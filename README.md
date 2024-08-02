@@ -2,8 +2,8 @@
 This project demonstrates the design and implementation of a digital system using VHDL to interface a VGA display and an ADXL345 accelerometer. The system captures acceleration data via SPI communication and uses it to control the movement direction of an on-screen object.
 
 # Features
-- VGA Signal Generation: Implemented VHDL code to generate VGA signals for visual display
-- SPI Communication: Utilized SPI protocol to acquire data from the ADXL345 accelerometer
+- VGA Signal Generation: Implemented VHDL code to generate VGA signals for visual display.
+- SPI Communication: Utilized SPI protocol to acquire data from the ADXL345 accelerometer.
 - Real-time Object Control: Controlled the direction of an 2d on-screen object based on real-time acceleration data.
 - Game-like Interface: Designed a simple interactive game where the object moves based on the accelerometer's input.
 
