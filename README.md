@@ -106,3 +106,9 @@ COMPONENT pmod_accelerometer_adxl345 IS
   );
 END COMPONENT;
 ```
+
+# Result
+
+### RTL View
+<img width="1485" alt="image" src="https://github.com/user-attachments/assets/0310e4c4-7a27-4da5-b6fd-0af82515afc0">
+
